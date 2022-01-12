@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HomeTaskAndroid_03_01_continue</string>
+    <string name="hello_there_welcome_back">Hello there, \nWelcome back</string>
+    <string name="todo">TODO</string>
+    <string name="sign_in_ti_continue">Sign in to continue</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="go">Go</string>
+    <string name="new_user_sign_up">New user? Sign up</string>
+    <string name="edit_photo">Edit Photo</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="private_information">Private information</string>
+    <string name="email">email</string>
+    <string name="phone_number">Phone Number</string>
+</resources>
